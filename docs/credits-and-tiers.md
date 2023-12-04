@@ -34,7 +34,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 **Gold (75,000 credits)​**
 * Access to chat colours: Green, Aqua, Red, Yellow, White, Gold
 * 10% XP boost
-* Gold nametag
+* Gold nameta
  
 **Opal (100,000 credits)**
 * Access to chat colours: Green, Aqua, Red, Yellow, White, Gold, Light Purple,
